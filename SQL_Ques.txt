@@ -1,0 +1,26 @@
+                                                                                                          
+                                                                      Digital Music Store Analysis 
+
+
+Ques1- Who is the senior most employee?
+
+Ques 2- Which countries have the most invoices?
+
+Ques 3- What ae the top 3 values of the total invoice?
+
+Ques 4- Which city has the best customers? We should like to throw a promotional Music Festival in the city we made the most money. Write a query that 
+              returns one city that has the highest sun of invoice totals. Return both the city name and sum of all invoice totals.
+
+Ques 5- Who is the best customer? The customer who has spent the most money will be declared the best customer. Write a query that returns the  that 
+              returns the person who has spent the most money.
+
+Ques 6- Write query to return the email, first name, last name and genre of all Rock Music listeners. Return your list ordered alphabetically by email
+              starting with A.
+
+Ques 7- Let's invite the artist who have written the most rock music in our database. Write a query that returns the Artist name and total track count
+              of the top rock bands.
+
+Ques 8- Return all the track names that have a song length longer than all avg song length. Return the name and milli seconds for each track. Order by the 
+              song length with the largest song listed first.
+
+
